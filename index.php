@@ -50,7 +50,7 @@
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown"> Uptraining & Consulting Academy </h2>
+              <h2 class="animate__animated animate__fadeInDown">   Uptraining & Consulting Academy </h2>
               <p class="animate__animated animate__fadeInUp" style="font-size:18px ;">Une agence de conseil et un centre de formation qui vous accompagnent dans le développement de vos compétences.</p>
               <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">DÉCOUVRIR</a>
             </div>
